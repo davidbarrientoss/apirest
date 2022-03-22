@@ -1,0 +1,21 @@
+[
+  {
+    "name": "tostadora",
+    "description": "color rojo",
+    "code": "fdasfdas",
+    "price": 40,
+    "photo": "jfkldsa",
+    "stock": 200,
+    "timestamp": 1646788309291,
+    "id": 1
+  },
+  {
+    "name": "tostadora",
+    "description": "color rojo",
+    "code": "fdasfdas",
+    "price": 40,
+    "photo": "jfkldsa",
+    "stock": 200,
+    "id": 2
+  }
+]
